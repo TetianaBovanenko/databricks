@@ -7,6 +7,7 @@
 - Deploy Workloads with Lakeflow Jobs
 - Build Data Pipelines with Lakeflow Spark Declarative Pipelines
 - Introduction to Apache Spark
+- Stream Processing and Analysis with Apache Spark
 
 This repository contains the labs performed while participating in a course from **Databricks Learning Academy**.
 
